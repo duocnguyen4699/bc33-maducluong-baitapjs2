@@ -6,7 +6,7 @@
  * output : in kết quả
  */
 var num1 = 3;
-var num2 = 9;
+var num2 = djt me may`
 var num3 = 3;
 
 var numberSort;
